@@ -53,7 +53,7 @@ body {
 }
 
 #list {
-    border: 1px solid rgb(8, 0, 255);
+    border: 1px solid #0800ff;
     display: grid;
     grid-template-columns: 1fr 1fr 2fr;
     height: 500px;
