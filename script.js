@@ -56,6 +56,6 @@ document.getElementById("search1").addEventListener("keydown", (event) => {
     console.log(txt);
 })
 
-document.addEventListener("onclick", () => {
+document.addEventListener("click", () => {
     console.log("click")
 })
